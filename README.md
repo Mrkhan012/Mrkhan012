@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Afroj Pathan</h1>
+<h3 align="center">🚀 Flutter Developer | Clean Architecture Enthusiast | Node.js</h3>
 
-<!--
-**Mrkhan012/Mrkhan012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Mrkhan012">
+    <img src="https://komarev.com/ghpvc/?username=Mrkhan012&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💙 2+ Years of Experience in Flutter
+- 🔥 Passionate about Clean Architecture & Scalable Apps
+- 📱 Building Production-Ready Mobile Applications
+- 🧠 Currently Learning System Design
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mrkhan012&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkhan012&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mrkhan012&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrkhan012&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+⭐ From [Afroj Pathan](https://github.com/Mrkhan012)
