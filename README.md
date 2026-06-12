@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💙 2+ Years of Experience in Flutter
+- 💙 3+ Years of Experience in Flutter
 - 🔥 Passionate about Clean Architecture & Scalable Apps
 - 📱 Building Production-Ready Mobile Applications
 - 🧠 Currently Learning System Design
