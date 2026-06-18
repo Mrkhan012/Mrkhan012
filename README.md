@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afroj Pathan</h1>
+<h1 align="center">Hi 👋, I'm Afarojkha Pathan</h1>
 <h3 align="center">🚀 Flutter Developer | Clean Architecture Enthusiast | Node.js</h3>
 
 <p align="center">
